@@ -1,5 +1,5 @@
 {
-  "name": "kanban-tello",
+  "name": "random-quote",
   "version": "1.0.0",
   "description": "Kodilla project",
   "main": "index.html",
@@ -40,6 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ciri1987/kanban-trello"
+    "url": "git+https://github.com/Ciri1987/random-quote"
   }
 }

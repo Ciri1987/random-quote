@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body {
+  background: linear-gradient(#808088, #222424) fixed;
+}
+
+.container {
+  margin: 0 auto;
+  padding-top: 10vh;
+  height: 100vh;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 30px;
+  color: #e9e1dd;
+  font-family: 'Black Ops One', cursive;
+}
+
+.quote {
+  font-family: 'Averia Libre', cursive;
+  font-size: 60px;
+}
+
+.author {
+  font-family: 'Averia Libre', cursive;
+  font-size: 30px;
+}
+
+button {
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
